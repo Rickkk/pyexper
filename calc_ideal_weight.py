@@ -11,4 +11,4 @@ else:
 	max=sr+sr%10
 	mess=name+", your ideal weight is range from "+str(min)+" to "+str(max)
 	print(mess)
-	
+	print("Count kalories for your day is "+str(max*31))
